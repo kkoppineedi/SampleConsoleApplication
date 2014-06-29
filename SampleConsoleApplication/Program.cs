@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace SampleConsoleApplication {
     class Program {
         static void Main(string[] args) {
+            Console.WriteLine("Sample message added here.");
+            Console.ReadLine();
         }
     }
 }
